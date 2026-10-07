@@ -1,0 +1,35 @@
+*:root{
+    --FirstColor: rgba(255, 255, 255, 0.476);
+    --SecondColor: black;
+    --ThirdColor: navy;
+    --ForthColor: white;
+}
+
+*,
+&::before,
+&::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 100%;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    &:visited{
+        color: inherit;
+    }
+}
+figcaption{
+    font-size: 25px;
+    color: var(--FirstColor);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+}
