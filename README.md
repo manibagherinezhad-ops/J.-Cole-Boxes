@@ -23,7 +23,7 @@ The project focuses on creating an interactive visual experience with **HTML and
 
 ## 🌐 Live Demo
 
-🎵 **[View the Live Website](https://manibagherinezhad-ops.github.io/J-Cole-Boxes/)**
+🎵 **[View the Live Website](https://manibagherinezhad-ops.github.io/J.-Cole-Boxes/)**
 
 ---
 
