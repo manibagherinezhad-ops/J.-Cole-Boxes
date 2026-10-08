@@ -1,4 +1,4 @@
-# 🎵 J. Cole's 
+# 🎵 J. Cole's Boxes
 
 > A visual front-end experiment featuring four interactive J. Cole album-era boxes built with **HTML & CSS**.
 
