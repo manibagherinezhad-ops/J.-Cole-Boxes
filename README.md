@@ -45,7 +45,7 @@ The project focuses on creating an interactive visual experience with **HTML and
   Each caption rotates in a different direction depending on the box, creating visual variation across the composition.
 
 * 📏 **Decorative Line Animation**
-  
+  The horizontal lines surrounding each caption scale on hover, creating a subtle interactive effect.
 
 * 📐 **Flexbox Layout**
   The four boxes are centered inside a full-screen `figure` using Flexbox with spacing between the elements.
