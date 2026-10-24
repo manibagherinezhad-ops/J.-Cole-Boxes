@@ -13,7 +13,7 @@ The page presents four square images representing different eras of J. Cole's mu
 * 🎵 **The Fall-Off Era**
 * 👁️ **4 Your Eyez Only Era**
 * 🔥 **The Off-Season Era**
-* 🖤 **Born Sinner Era**
+* 🖤 **Born  Era**
 
 Each box contains an image, a dark overlay, and a caption surrounded by decorative lines. When the user hovers over a box, the overlay becomes visible and the caption rotates while its decorative lines expand.
 
